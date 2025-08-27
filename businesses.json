@@ -1,4 +1,6 @@
 {
+  "businesses": [
+    {
       "id": "Mauritius_1",
       "name": "Blue Vibes",
       "logoUrl": "https://static.wixstatic.com/media/57bb62_d2d28dadf2734cce914a2415021ace7c~mv2.png/v1/fill/w_210,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_black.png",
@@ -25,7 +27,7 @@
       "emailClickable": true,
       "website": "https://bluevibesltd.com",
       "websiteClickable": true,
-      "about": "Blue Vibes offers authentic Mauritian boat experiences - from exploring the Northern Islands and untouched gems like Bernache, to vibrant coral reefs and sunset cruises with local flavors. Our fleet includes two brand-new speedboats and a traditional Mauritian wooden pirogue, perfect for both classic island tours and tailor-made programs off the beaten track. With a certified and experienced team guiding you from booking to the end of your journey, every trip with Blue Vibes is designed to be a memorable adventure at sea.",
+      "about": "Blue Vibes offers authentic Mauritian boat experiences...",
       "hours": "Thursday: 8 am–7 pm\nFriday: 8 am–7 pm\nSaturday: 8 am–7 pm\nSunday: 8 am–7 pm\nMonday: 8 am–7 pm\nTuesday: 8 am–7 pm\nWednesday: 8 am–7 pm",
       "pricingEnabled": true,
       "pricingItems": [
@@ -33,27 +35,10 @@
           "serviceName": "Untouched Islands Day Trip",
           "price": 120.0,
           "currency": "USD",
-          "description": "Evening cruise with drinks and snorkeling\n• Watch the sea and underwater world transform as the sun sets\n• Cruise along the coastline or sail to Gunners Coin for snorkeling\n• Enjoy the magical colors of the sky from orange to purple\n• Onboard drinks & local snacks included\n• Snorkeling equipment provided\n• Departure: 4 pm – 6:30 pm, Cap Malheureux's red-roof church\n• In case of bad weather, the trip will be postponed",
+          "description": "Evening cruise with drinks and snorkeling...",
           "duration": "8 hours",
           "bookable": true,
           "bookingWhatsApp": ""
-        },
-        {
-          "serviceName": "3 Northern Islands Tour",
-          "price": 95.0,
-          "currency": "USD",
-          "description": "Visit 3 beautiful northern islands",
-          "duration": "6 hours",
-          "bookable": true,
-          "bookingWhatsApp": "+23054569898"
-        },
-        {
-          "serviceName": "Sunset Cruise with Snorkeling",
-          "price": 65.0,
-          "currency": "USD",
-          "description": "Evening cruise with drinks and snorkeling",
-          "duration": "3 hours",
-          "bookable": false
         }
       ],
       "socialMedia": {
@@ -61,9 +46,7 @@
         "Instagram": "https://www.instagram.com/bluevibesltd/"
       },
       "galleryImages": [
-        "https://static.wixstatic.com/media/57bb62_048554b9368549aa87fbbe5a07e03a6b~mv2.jpg/v1/fill/w_480,h_480,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/57bb62_048554b9368549aa87fbbe5a07e03a6b~mv2.jpg",
-        "https://static.wixstatic.com/media/57bb62_8e34ec4c57c4474db03d0207a8baf6d0~mv2.jpg/v1/fill/w_480,h_480,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/57bb62_8e34ec4c57c4474db03d0207a8baf6d0~mv2.jpg",
-        "https://static.wixstatic.com/media/57bb62_3b77251ba29a426fb67f74b309200f6c~mv2.jpg/v1/fill/w_480,h_480,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/57bb62_3b77251ba29a426fb67f74b309200f6c~mv2.jpg"
+        "https://static.wixstatic.com/media/57bb62_048554b9368549aa87fbbe5a07e03a6b~mv2.jpg/v1/fill/w_480,h_480,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/57bb62_048554b9368549aa87fbbe5a07e03a6b~mv2.jpg"
       ],
       "galleryDrawables": [],
       "reviews": [],
@@ -80,7 +63,6 @@
       "coverMediaType": "VIDEO",
       "rating": 4.8,
       "reviewCount": 89
-    },
+    }
   ]
-
 }
